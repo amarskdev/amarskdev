@@ -63,14 +63,14 @@ With **4+ years of production experience**, I specialize in designing scalable, 
 ## 📊 GitHub Insights
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=amarkumar55&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkumar55&layout=compact&theme=tokyonight" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=amarskdev&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarskdev&layout=compact&theme=tokyonight" height="160" /> 
 </p> 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar55&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarskdev&theme=tokyonight" />
 </p> 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=amarkumar55&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=amarskdev&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" /> 
 </p>
 
 ---
@@ -107,5 +107,5 @@ With **4+ years of production experience**, I specialize in designing scalable, 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/amarkumar55/amarkumar55/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/amarskdev/amarskdev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
