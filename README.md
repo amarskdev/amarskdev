@@ -97,7 +97,7 @@ With **4+ years of production experience**, I specialize in designing scalable, 
 <a href="mailto:amarsk.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a> 
-<a href="https://leetcode.com/Amar9691" target="_blank">
+<a href="https://leetcode.com/u/amarskdev" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge" />
 </a> 
 </p>
